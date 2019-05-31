@@ -1,0 +1,26 @@
+<XMBML version="1.0">
+
+<!-- HENBrew Store -->
+
+	<View id="henbrew_store_xmb_main">
+		<Attributes>
+			<Table key="henbrew_store_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ HENBrew Store</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_main" 
+				attr="henbrew_store_main" 
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_items.xml#henbrew_store_items_main"
+				/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,72 @@
+<XMBML version="1.0">
+
+<!-- HENBrew Store > Items -->
+
+	<View id="henbrew_store_items_main">
+		<Attributes>
+			<Table key="henbrew_store_backup_managers">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>Backup Managers</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="henbrew_store_homebrew_games">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>Homebrew Games</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="henbrew_store_multimedia">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>Multimedia</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="henbrew_store_retro">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>Retro / Emulators</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>			
+			<Table key="henbrew_store_about">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
+				<Pair key="title"><String>About</String></Pair>
+				<Pair key="info"><String>Update/version/changelog</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_backup_managers"
+				attr="henbrew_store_backup_managers"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_backup_managers.xml#henbrew_store_backup_managers_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_homebrew_games"
+				attr="henbrew_store_homebrew_games"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_homebrew_games.xml#henbrew_store_homebrew_games_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_multimedia"
+				attr="henbrew_store_multimedia"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_multimedia.xml#henbrew_store_multimedia_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_retro"
+				attr="henbrew_store_retro"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_retro.xml#henbrew_store_retro_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_about" 
+				attr="henbrew_store_about"
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_about.xml#henbrew_store_about_main"
+				/>
+		</Items>
+	</View>
+
+</XMBML>
