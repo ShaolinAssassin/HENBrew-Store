@@ -16,6 +16,12 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
+			<Table key="henbrew_store_iso_launchers">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>ISO Launchers</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
 			<Table key="henbrew_store_multimedia">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Multimedia</String></Pair>
@@ -47,6 +53,12 @@
 				key="henbrew_store_homebrew_games"
 				attr="henbrew_store_homebrew_games"				
 				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_homebrew_games.xml#henbrew_store_homebrew_games_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_iso_launchers"
+				attr="henbrew_store_iso_launchers"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_iso_launchers.xml#henbrew_store_iso_launchers_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

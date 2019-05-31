@@ -1,0 +1,122 @@
+<XMBML version="1.0"> 
+ 
+<!-- HENBrew Store > Homebrew Games Items [Last update: 31/05/2019] --> 
+ 
+	<View id="henbrew_store_homebrew_games_main">
+		<Attributes>
+			<Table key="item_AVOIDANCE"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/AVOIDANCE.PNG</String></Pair> 
+				<Pair key="title"><String>Avoidance</String></Pair> 
+				<Pair key="info"><String>v1.0 - By ThatOtherDev.com</String></Pair> 
+			</Table>
+			<Table key="item_RETROHBV1"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
+				<Pair key="title"><String>Retro Homebrew Collection Vol 1 - Atari 2600 Edition</String></Pair> 
+				<Pair key="info"><String>Unknown - Unknown</String></Pair> 
+			</Table>
+			<Table key="item_RETROHBV2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
+				<Pair key="title"><String>Retro Homebrew Collection Vol 2 - Nintendo NES Edition</String></Pair> 
+				<Pair key="info"><String>Unknown - Unknown</String></Pair> 
+			</Table>
+			<Table key="item_SMW00PS33"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SMW00PS33.PNG</String></Pair> 
+				<Pair key="title"><String>Super Mario War</String></Pair> 
+				<Pair key="info"><String>v1.8 r3 - By lachrymose</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_AVOIDANCE" 
+				attr="item_AVOIDANCE" 
+				src="#item_AVOIDANCE_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_RETROHBV1" 
+				attr="item_RETROHBV1" 
+				src="#item_RETROHBV1_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_RETROHBV2" 
+				attr="item_RETROHBV2" 
+				src="#item_RETROHBV2_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SMW00PS33" 
+				attr="item_SMW00PS33" 
+				src="#item_SMW00PS33_main" 
+			/>
+		</Items>
+	</View>
+
+<!-- HENBrew Store > Homebrew Games Items > Download links --> 
+
+	<View id="item_AVOIDANCE_main"> 
+		<Attributes> 
+			<Table key="item_AVOIDANCE_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133876218/Avoidance-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133876218/Avoidance-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>OP0001-AVOIDANCE_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/AVOIDANCE.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_AVOIDANCE_link" attr="item_AVOIDANCE_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_RETROHBV1_main"> 
+		<Attributes> 
+			<Table key="item_RETROHBV1_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862166/Retro-Homebrew-Collection-Vol-1-Atari-2600-Edition-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862166/Retro-Homebrew-Collection-Vol-1-Atari-2600-Edition-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>TP0001-RETROHBV1_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_RETROHBV1_link" attr="item_RETROHBV1_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_RETROHBV2_main"> 
+		<Attributes> 
+			<Table key="item_RETROHBV2_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862103/Retro-Homebrew-Collection-Vol-2-Nintendo-NES-Edition-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862103/Retro-Homebrew-Collection-Vol-2-Nintendo-NES-Edition-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>TP0001-RETROHBV2_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_RETROHBV2_link" attr="item_RETROHBV2_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SMW00PS33_main"> 
+		<Attributes> 
+			<Table key="item_SMW00PS33_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879674/Super-Mario-War-v1.8-r3-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879674/Super-Mario-War-v1.8-r3-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-SMW00PS33_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SMW00PS33.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SMW00PS33_link" attr="item_SMW00PS33_link"/> 
+		</Items> 
+	</View> 
+
+</XMBML>

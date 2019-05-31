@@ -1,0 +1,41 @@
+<XMBML version="1.0"> 
+ 
+<!-- HENBrew Store > ISO Launchers Items [Last update: 31/05/2019] --> 
+ 
+	<View id="henbrew_store_iso_launchers_main">
+		<Attributes>
+			<Table key="item_PS2U10000"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS2U10000.PNG</String></Pair> 
+				<Pair key="title"><String>PS2 Classics Placeholder</String></Pair> 
+				<Pair key="info"><String>r3 - Unknown</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_PS2U10000" 
+				attr="item_PS2U10000" 
+				src="#item_PS2U10000_main" 
+			/>
+		</Items>
+	</View>
+
+<!-- HENBrew Store > ISO Launchers Items > Download links --> 
+
+	<View id="item_PS2U10000_main"> 
+		<Attributes> 
+			<Table key="item_PS2U10000_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133872798/PS2-Classics-Manager-v1.02-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133872798/PS2-Classics-Manager-v1.02-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>2P0001-PS2U10000_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS2U10000.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PS2U10000_link" attr="item_PS2U10000_link"/> 
+		</Items> 
+	</View> 
+
+</XMBML>
