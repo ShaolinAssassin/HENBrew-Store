@@ -11,8 +11,10 @@
 			</Table>
 			<Table key="henbrew_store_version">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
-				<Pair key="title"><String>XX.XX</String></Pair>
+				<Pair key="title"><String>2019.06.01 - Initial release</String></Pair>
 				<Pair key="info"><String>Press  to access changelog</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://shaolinassassin.github.io/HENBrew-Store/</String></Pair>
 			</Table>			
 		</Attributes>		
 			<Items>
@@ -23,10 +25,9 @@
 					src="#henbrew_store_update_main"
 					/> 
 				<Query 
-					class="type:x-xmb/folder-pixmap" 
+					class="type:x-xmb/module-action" 
 					key="henbrew_store_version" 
 					attr="henbrew_store_version"
-					src="#henbrew_store_changelog"
 					/>
 			</Items>
 		</View>
@@ -48,25 +49,5 @@
 			<Item class="type:x-xmb/xmlnpsignup" key="henbrew_store_update_link" attr="henbrew_store_update_link"/> 
 		</Items> 
 	</View> 
-	
-<!-- HENBrew Store > About > Changelog (here) -->
-			
-	<View id="henbrew_store_changelog"> 
-		<Attributes>
-			<Table key="henbrew_store_last_changes">
-				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/logo.png</String></Pair>
-				<Pair key="title"><String>XX.XX</String></Pair>
-				<Pair key="info"><String>Initial release
-				</String></Pair>
-			</Table>
-		</Attributes>
-		<Items>
-			<Query 
-				class="type:x-xmb/module-action" 
-				key="henbrew_store_last_changes" 
-				attr="henbrew_store_last_changes"
-				/>
-		</Items>
-	</View>
 
 </XMBML>

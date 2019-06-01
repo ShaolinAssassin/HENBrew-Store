@@ -1,38 +1,38 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Backup Managers Items [Last update: 31/05/2019] --> 
+<!-- HENBrew Store > Backup Managers Items [Last update: 01/06/2019] --> 
  
 	<View id="henbrew_store_backup_managers_main">
 		<Attributes>
 			<Table key="item_FILEMANAG"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
 				<Pair key="title"><String>Filemanager</String></Pair> 
-				<Pair key="info"><String>v1.35 - 03/22/19</String></Pair> 
+				<Pair key="info"><String>v1.35 - 03/22/2019</String></Pair> 
 			</Table>
 			<Table key="item_IRISMAN00"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/IRISMAN00.PNG</String></Pair> 
 				<Pair key="title"><String>IrisMAN</String></Pair> 
-				<Pair key="info"><String>v4.84.5 - 05/28/19</String></Pair> 
+				<Pair key="info"><String>v4.84.5 - 05/28/2019</String></Pair> 
 			</Table>
 			<Table key="item_MANAGUNZ0"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
 				<Pair key="title"><String>ManaGunZ</String></Pair> 
-				<Pair key="info"><String>v1.35-J - 05/28/19</String></Pair> 
+				<Pair key="info"><String>v1.35-J - 05/28/2019</String></Pair> 
 			</Table>
 			<Table key="item_BLES80608"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/BLES80608.PNG</String></Pair> 
 				<Pair key="title"><String>multiMAN</String></Pair> 
-				<Pair key="info"><String>v0.4.82-HEN - 05/28/19</String></Pair> 
+				<Pair key="info"><String>v0.4.82-HEN - 05/28/2019</String></Pair> 
 			</Table>
 			<Table key="item_PS2L00123"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS2L00123.PNG</String></Pair> 
 				<Pair key="title"><String>PS2 Classics Manager</String></Pair> 
-				<Pair key="info"><String>v1.02 - Unknown</String></Pair> 
+				<Pair key="info"><String>v1.02 - 04/11/2013</String></Pair> 
 			</Table>
 			<Table key="item_UPDWEBMOD"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
 				<Pair key="title"><String>webMAN MOD</String></Pair> 
-				<Pair key="info"><String>v1.47.21 - 05/29/19</String></Pair> 
+				<Pair key="info"><String>v1.47.21 - 05/29/2019</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>

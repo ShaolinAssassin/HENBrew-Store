@@ -1,2 +1,1 @@
-# HENBrew-Store
-Download and install latest homebrews made for/signed for PS3HEN. 
+### 2018.06.01 - Initial release

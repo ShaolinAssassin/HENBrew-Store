@@ -32,7 +32,7 @@
 			<Table key="henbrew_store_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
 				<Pair key="title"><String>About</String></Pair>
-				<Pair key="info"><String>Update/version/changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
