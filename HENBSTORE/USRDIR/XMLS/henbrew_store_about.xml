@@ -5,13 +5,13 @@
 		<View id="henbrew_store_about_main"> 
 		<Attributes>
 			<Table key="henbrew_store_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/update_status/vXX.XX.XX.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/update_status/XX.XX.png</String></Pair>
 				<Pair key="title"><String>Update HENBrew Store</String></Pair>
 				<Pair key="info"><String>Download and install the latest HENBrew Store and refresh XMB (exit user session)</String></Pair>
 			</Table>
 			<Table key="henbrew_store_version">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
-				<Pair key="title"><String>vXX.XX.XX</String></Pair>
+				<Pair key="title"><String>XX.XX</String></Pair>
 				<Pair key="info"><String>Press  to access changelog</String></Pair>
 			</Table>			
 		</Attributes>		
@@ -55,9 +55,8 @@
 		<Attributes>
 			<Table key="henbrew_store_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/logo.png</String></Pair>
-				<Pair key="title"><String>vXX.XX.XX</String></Pair>
-				<Pair key="info"><String>				
-				・ 			
+				<Pair key="title"><String>XX.XX</String></Pair>
+				<Pair key="info"><String>Initial release
 				</String></Pair>
 			</Table>
 		</Attributes>

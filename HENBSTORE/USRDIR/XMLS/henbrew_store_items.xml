@@ -8,37 +8,31 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Backup Managers</String></Pair>
 				<Pair key="info"><String></String></Pair>
-				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 			<Table key="henbrew_store_homebrew_games">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Homebrew Games</String></Pair>
 				<Pair key="info"><String></String></Pair>
-				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 			<Table key="henbrew_store_iso_launchers">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>ISO Launchers</String></Pair>
 				<Pair key="info"><String></String></Pair>
-				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 			<Table key="henbrew_store_multimedia">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Multimedia</String></Pair>
 				<Pair key="info"><String></String></Pair>
-				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 			<Table key="henbrew_store_retro">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Retro / Emulators</String></Pair>
 				<Pair key="info"><String></String></Pair>
-				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>			
 			<Table key="henbrew_store_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
 				<Pair key="title"><String>About</String></Pair>
 				<Pair key="info"><String>Update/version/changelog</String></Pair>
-				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
