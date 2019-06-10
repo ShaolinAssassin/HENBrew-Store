@@ -4,9 +4,9 @@
 
 	<View id="henbrew_store_items_main">
 		<Attributes>
-			<Table key="henbrew_store_backup_managers">
+			<Table key="henbrew_store_backup_managers_launchers">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
-				<Pair key="title"><String>Backup Managers</String></Pair>
+				<Pair key="title"><String>Backup Managers / ISO Launchers</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="henbrew_store_homebrew_games">
@@ -14,14 +14,9 @@
 				<Pair key="title"><String>Homebrew Games</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
-			<Table key="henbrew_store_iso_launchers">
+			<Table key="henbrew_store_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
-				<Pair key="title"><String>ISO Launchers</String></Pair>
-				<Pair key="info"><String></String></Pair>
-			</Table>
-			<Table key="henbrew_store_multimedia">
-				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
-				<Pair key="title"><String>Multimedia</String></Pair>
+				<Pair key="title"><String>Misc</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="henbrew_store_retro">
@@ -38,9 +33,9 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="henbrew_store_backup_managers"
-				attr="henbrew_store_backup_managers"				
-				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_backup_managers.xml#henbrew_store_backup_managers_main"
+				key="henbrew_store_backup_managers_launchers"
+				attr="henbrew_store_backup_managers_launchers"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_backup_managers_launchers.xml#henbrew_store_backup_managers_launchers_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -50,15 +45,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="henbrew_store_iso_launchers"
-				attr="henbrew_store_iso_launchers"				
-				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_iso_launchers.xml#henbrew_store_iso_launchers_main"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="henbrew_store_multimedia"
-				attr="henbrew_store_multimedia"				
-				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_multimedia.xml#henbrew_store_multimedia_main"
+				key="henbrew_store_misc"
+				attr="henbrew_store_misc"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_misc.xml#henbrew_store_misc_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

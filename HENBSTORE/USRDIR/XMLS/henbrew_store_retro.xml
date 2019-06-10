@@ -1,23 +1,23 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Retro Items [Last update: 01/06/2019] --> 
+<!-- HENBrew Store > Retro Items [Last update: 10/06/2019] --> 
  
 	<View id="henbrew_store_retro_main">
 		<Attributes>
 			<Table key="item_HBDB90000"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HBDB90000.PNG</String></Pair> 
-				<Pair key="title"><String>DoPsBox</String></Pair> 
-				<Pair key="info"><String>v0.74 r1 - Unknown</String></Pair> 
+				<Pair key="title"><String>DOSBox</String></Pair> 
+				<Pair key="info"><String>v0.74 r1</String></Pair> 
 			</Table>
 			<Table key="item_SSNE10000"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
 				<Pair key="title"><String>RetroArch PS3</String></Pair> 
-				<Pair key="info"><String>v1.7.7 - 05/30/2019</String></Pair> 
+				<Pair key="info"><String>v1.7.7</String></Pair> 
 			</Table>
 			<Table key="item_SCUM12000"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
 				<Pair key="title"><String>ScummVM</String></Pair> 
-				<Pair key="info"><String>v2.0.0 - 12/29/2017</String></Pair> 
+				<Pair key="info"><String>v2.0.0</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>
@@ -48,8 +48,8 @@
 		<Attributes> 
 			<Table key="item_HBDB90000_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DoPsBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DoPsBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DOSBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DOSBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-HBDB90000_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HBDB90000.PNG</String></Pair> 

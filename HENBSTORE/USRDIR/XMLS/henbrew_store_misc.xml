@@ -1,13 +1,13 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Multimedia Items [Last update: 01/06/2019] --> 
+<!-- HENBrew Store > Multimedia Items [Last update: 10/06/2019] --> 
  
-	<View id="henbrew_store_multimedia_main">
+	<View id="henbrew_store_misc_main">
 		<Attributes>
 			<Table key="item_HTSS00003"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
 				<Pair key="title"><String>Movian</String></Pair> 
-				<Pair key="info"><String>v5.0.546 - 08/29/2018</String></Pair> 
+				<Pair key="info"><String>v5.0.546</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>

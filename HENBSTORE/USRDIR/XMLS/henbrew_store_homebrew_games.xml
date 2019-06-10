@@ -1,28 +1,43 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Homebrew Games Items [Last update: 01/06/2019] --> 
+<!-- HENBrew Store > Homebrew Games Items [Last update: 10/06/2019] --> 
  
 	<View id="henbrew_store_homebrew_games_main">
 		<Attributes>
 			<Table key="item_AVOIDANCE"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/AVOIDANCE.PNG</String></Pair> 
 				<Pair key="title"><String>Avoidance</String></Pair> 
-				<Pair key="info"><String>v1.0 - Unknown</String></Pair> 
+				<Pair key="info"><String>v1.3 - By ThatOtherDev</String></Pair> 
+			</Table>
+			<Table key="item_CYLINDERD"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/CYLINDERD.PNG</String></Pair> 
+				<Pair key="title"><String>CylinderDodge</String></Pair> 
+				<Pair key="info"><String>v1.1 - By ThatOtherDev</String></Pair> 
 			</Table>
 			<Table key="item_RETROHBV1"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
-				<Pair key="title"><String>Retro Homebrew Collection Vol 1 - Atari 2600 Edition</String></Pair> 
-				<Pair key="info"><String>Unknown - Unknown</String></Pair> 
+				<Pair key="title"><String>Retro Collection Vol. 1 - Atari 2600 Edition</String></Pair> 
+				<Pair key="info"><String>Unknown - Various</String></Pair> 
 			</Table>
 			<Table key="item_RETROHBV2"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
-				<Pair key="title"><String>Retro Homebrew Collection Vol 2 - Nintendo NES Edition</String></Pair> 
-				<Pair key="info"><String>Unknown - Unknown</String></Pair> 
+				<Pair key="title"><String>Retro Collection Vol. 2 - Nintendo NES Edition</String></Pair> 
+				<Pair key="info"><String>Unknown - Various</String></Pair> 
 			</Table>
 			<Table key="item_SMW00PS33"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SMW00PS33.PNG</String></Pair> 
 				<Pair key="title"><String>Super Mario War</String></Pair> 
-				<Pair key="info"><String>v1.8 r2 - Unknown</String></Pair> 
+				<Pair key="info"><String>v1.8 r2 - By Lachrymose</String></Pair> 
+			</Table>
+			<Table key="item_SUPERJUMP"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SUPERJUMP.PNG</String></Pair> 
+				<Pair key="title"><String>SuperPixelJumper</String></Pair> 
+				<Pair key="info"><String>v1.2 - By ThatOtherDev</String></Pair> 
+			</Table>
+			<Table key="item_SWINGBAL2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SWINGBAL2.PNG</String></Pair> 
+				<Pair key="title"><String>Swingball 2</String></Pair> 
+				<Pair key="info"><String>v2.0 (JjKkYu fix) - By ThatOtherDev</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>
@@ -31,6 +46,12 @@
 				key="item_AVOIDANCE" 
 				attr="item_AVOIDANCE" 
 				src="#item_AVOIDANCE_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_CYLINDERD" 
+				attr="item_CYLINDERD" 
+				src="#item_CYLINDERD_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -50,6 +71,18 @@
 				attr="item_SMW00PS33" 
 				src="#item_SMW00PS33_main" 
 			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SUPERJUMP" 
+				attr="item_SUPERJUMP" 
+				src="#item_SUPERJUMP_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SWINGBAL2" 
+				attr="item_SWINGBAL2" 
+				src="#item_SWINGBAL2_main" 
+			/>
 		</Items>
 	</View>
 
@@ -59,8 +92,8 @@
 		<Attributes> 
 			<Table key="item_AVOIDANCE_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133876218/Avoidance-v1.0-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133876218/Avoidance-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133999080/Avoidance-v1.3-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133999080/Avoidance-v1.3-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>OP0001-AVOIDANCE_00-0000111122223333</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/AVOIDANCE.PNG</String></Pair> 
@@ -68,6 +101,22 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_AVOIDANCE_link" attr="item_AVOIDANCE_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_CYLINDERD_main"> 
+		<Attributes> 
+			<Table key="item_CYLINDERD_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010516/CylinderDodge-v1.1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010516/CylinderDodge-v1.1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-CYLINDERD_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/CYLINDERD.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_CYLINDERD_link" attr="item_CYLINDERD_link"/> 
 		</Items> 
 	</View> 
 
@@ -116,6 +165,38 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_SMW00PS33_link" attr="item_SMW00PS33_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SUPERJUMP_main"> 
+		<Attributes> 
+			<Table key="item_SUPERJUMP_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010522/SuperPixelJumper-v1.2-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010522/SuperPixelJumper-v1.2-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-SUPERJUMP_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SUPERJUMP.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SUPERJUMP_link" attr="item_SUPERJUMP_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SWINGBAL2_main"> 
+		<Attributes> 
+			<Table key="item_SWINGBAL2_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010570/Swingball-2-v0.4-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010570/Swingball-2-v0.4-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>IP0001-SWINGBAL2_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SWINGBAL2.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SWINGBAL2_link" attr="item_SWINGBAL2_link"/> 
 		</Items> 
 	</View> 
 

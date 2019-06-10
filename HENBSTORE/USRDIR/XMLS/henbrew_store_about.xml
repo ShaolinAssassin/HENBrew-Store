@@ -5,13 +5,13 @@
 		<View id="henbrew_store_about_main"> 
 		<Attributes>
 			<Table key="henbrew_store_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/update_status/XX.XX.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/update_status/2019.06.10.png</String></Pair>
 				<Pair key="title"><String>Update HENBrew Store</String></Pair>
-				<Pair key="info"><String>Download and install the latest HENBrew Store and refresh XMB (exit user session)</String></Pair>
+				<Pair key="info"><String>Download and install the latest HENBrew Store and refresh XMB</String></Pair>
 			</Table>
 			<Table key="henbrew_store_version">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
-				<Pair key="title"><String>2019.06.01 - Initial release</String></Pair>
+				<Pair key="title"><String>2019.06.10 - Initial release</String></Pair>
 				<Pair key="info"><String>Press  to access changelog</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>https://shaolinassassin.github.io/HENBrew-Store/</String></Pair>
@@ -38,8 +38,8 @@
 		<Attributes> 
 			<Table key="henbrew_store_update_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133873491/Latest_HENBrew_Store_signed.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133873491/Latest_HENBrew_Store_signed.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133873491/Latest_HENBrew_Store.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133873491/Latest_HENBrew_Store.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0100-HENBSTORE_00-0SHAOLINASSASSIN</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/update.png</String></Pair> 
