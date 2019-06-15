@@ -1,7 +1,27 @@
+### 2019.XX.XX
+
+*BACKUP MANAGERS / ISO LAUNCHERS :*
++ 
+
+*HOMEBREW GAMES :* 
++ Flappy Birds - v1.0
++ Five Nights at Freddys - v1.0
++ SGT Puzzles  - v0.1
++ Sketch Fight - v0.3
++ Winters End - v1.0
+
+*MISC :* 
++ 
+
+*RETRO / EMULATORS :* 
++ 
+
+___
+
+
 ### 2019.06.10 - Initial release 
 
-*BACKUP MANAGERS / ISO LAUNCHERS :* 
-
+*BACKUP MANAGERS / ISO LAUNCHERS :*
 + Filemanager - v1.35
 + IrisMAN - v4.84.5
 + ManaGunZ - v1.35-J (Joonie fix)
@@ -18,7 +38,7 @@
 + CylinderDodge - v1.1
 + Retro Collection Vol. 1 - Atari 2600 Edition
 + Retro Collection Vol. 2 - Nintendo NES Edition
-+ Super Mario War - v1.8 r2
++ Super Mario War - v1.8 r3
 + SuperPixelJumper - v1.2
 + Swingball 2 - v0.4
 

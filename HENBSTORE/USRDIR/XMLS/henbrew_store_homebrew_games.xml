@@ -14,6 +14,16 @@
 				<Pair key="title"><String>CylinderDodge</String></Pair> 
 				<Pair key="info"><String>v1.1 - By ThatOtherDev</String></Pair> 
 			</Table>
+			<Table key="item_FIVENATF0"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FIVENATF0.PNG</String></Pair> 
+				<Pair key="title"><String>Five Nights at Freddys</String></Pair> 
+				<Pair key="info"><String>v1.0 - By Sandroron</String></Pair> 
+			</Table>
+			<Table key="item_FLAPBIRD0"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FLAPBIRD0.PNG</String></Pair> 
+				<Pair key="title"><String>Flappy Birds</String></Pair> 
+				<Pair key="info"><String>v1.0 - By Sandroron</String></Pair> 
+			</Table>
 			<Table key="item_RETROHBV1"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
 				<Pair key="title"><String>Retro Collection Vol. 1 - Atari 2600 Edition</String></Pair> 
@@ -24,10 +34,20 @@
 				<Pair key="title"><String>Retro Collection Vol. 2 - Nintendo NES Edition</String></Pair> 
 				<Pair key="info"><String>Unknown - Various</String></Pair> 
 			</Table>
+			<Table key="item_SGTPZL010"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SGTPZL010.PNG</String></Pair> 
+				<Pair key="title"><String>SGT Puzzles </String></Pair> 
+				<Pair key="info"><String>v0.1 - By KaKaRoTo</String></Pair> 
+			</Table>
+			<Table key="item_SKETCHFIT"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SKETCHFIT.PNG</String></Pair> 
+				<Pair key="title"><String>Sketch Fight</String></Pair> 
+				<Pair key="info"><String>v0.3 - By ThatOtherDev</String></Pair> 
+			</Table>
 			<Table key="item_SMW00PS33"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SMW00PS33.PNG</String></Pair> 
 				<Pair key="title"><String>Super Mario War</String></Pair> 
-				<Pair key="info"><String>v1.8 r2 - By Lachrymose</String></Pair> 
+				<Pair key="info"><String>v1.8 r3 - By Lachrymose</String></Pair> 
 			</Table>
 			<Table key="item_SUPERJUMP"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SUPERJUMP.PNG</String></Pair> 
@@ -37,7 +57,12 @@
 			<Table key="item_SWINGBAL2"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SWINGBAL2.PNG</String></Pair> 
 				<Pair key="title"><String>Swingball 2</String></Pair> 
-				<Pair key="info"><String>v2.0 (JjKkYu fix) - By ThatOtherDev</String></Pair> 
+				<Pair key="info"><String>v0.4 - By ThatOtherDev</String></Pair> 
+			</Table>
+			<Table key="item_WINTERSEN"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/WINTERSEN.PNG</String></Pair> 
+				<Pair key="title"><String>Winters End</String></Pair> 
+				<Pair key="info"><String>v1.0 - By ThatOtherDev</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>
@@ -55,6 +80,18 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
+				key="item_FIVENATF0" 
+				attr="item_FIVENATF0" 
+				src="#item_FIVENATF0_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_FLAPBIRD0" 
+				attr="item_FLAPBIRD0" 
+				src="#item_FLAPBIRD0_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
 				key="item_RETROHBV1" 
 				attr="item_RETROHBV1" 
 				src="#item_RETROHBV1_main" 
@@ -64,6 +101,18 @@
 				key="item_RETROHBV2" 
 				attr="item_RETROHBV2" 
 				src="#item_RETROHBV2_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SGTPZL010" 
+				attr="item_SGTPZL010" 
+				src="#item_SGTPZL010_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SKETCHFIT" 
+				attr="item_SKETCHFIT" 
+				src="#item_SKETCHFIT_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -82,6 +131,12 @@
 				key="item_SWINGBAL2" 
 				attr="item_SWINGBAL2" 
 				src="#item_SWINGBAL2_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_WINTERSEN" 
+				attr="item_WINTERSEN" 
+				src="#item_WINTERSEN_main" 
 			/>
 		</Items>
 	</View>
@@ -120,6 +175,38 @@
 		</Items> 
 	</View> 
 
+	<View id="item_FIVENATF0_main"> 
+		<Attributes> 
+			<Table key="item_FIVENATF0_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027388/Five-Nights-at-Freddys-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027388/Five-Nights-at-Freddys-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-FIVENATF0_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FIVENATF0.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_FIVENATF0_link" attr="item_FIVENATF0_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_FLAPBIRD0_main"> 
+		<Attributes> 
+			<Table key="item_FLAPBIRD0_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027400/Flappy-Birds-Family-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027400/Flappy-Birds-Family-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-FLAPBIRD0_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FLAPBIRD0.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_FLAPBIRD0_link" attr="item_FLAPBIRD0_link"/> 
+		</Items> 
+	</View> 
+
 	<View id="item_RETROHBV1_main"> 
 		<Attributes> 
 			<Table key="item_RETROHBV1_link"> 
@@ -149,6 +236,38 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_RETROHBV2_link" attr="item_RETROHBV2_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SGTPZL010_main"> 
+		<Attributes> 
+			<Table key="item_SGTPZL010_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134023425/SGT-Puzzles-v0.1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134023425/SGT-Puzzles-v0.1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-SGTPZL010_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SGTPZL010.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SGTPZL010_link" attr="item_SGTPZL010_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SKETCHFIT_main"> 
+		<Attributes> 
+			<Table key="item_SKETCHFIT_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027394/Sketch-Fight-v0.3-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027394/Sketch-Fight-v0.3-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>TA9000-SKETCHFIT_00-GLORYOFBRUNESTUD</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SKETCHFIT.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SKETCHFIT_link" attr="item_SKETCHFIT_link"/> 
 		</Items> 
 	</View> 
 
@@ -197,6 +316,22 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_SWINGBAL2_link" attr="item_SWINGBAL2_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_WINTERSEN_main"> 
+		<Attributes> 
+			<Table key="item_WINTERSEN_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027397/Winters-End-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027397/Winters-End-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-WINTERSEN_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/WINTERSEN.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_WINTERSEN_link" attr="item_WINTERSEN_link"/> 
 		</Items> 
 	</View> 
 
