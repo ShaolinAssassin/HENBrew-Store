@@ -5,17 +5,17 @@
 	<View id="henbrew_store_retro_main">
 		<Attributes>
 			<Table key="item_HBDB90000"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/HBDB90000.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/HBDB90000.PNG</String></Pair> 
 				<Pair key="title"><String>DOSBox</String></Pair> 
 				<Pair key="info"><String>v0.74 r1</String></Pair> 
 			</Table>
 			<Table key="item_SSNE10000"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SSNE10000.PNG</String></Pair> 
 				<Pair key="title"><String>RetroArch PS3</String></Pair> 
 				<Pair key="info"><String>v1.7.7</String></Pair> 
 			</Table>
 			<Table key="item_SCUM12000"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SCUM12000.PNG</String></Pair> 
 				<Pair key="title"><String>ScummVM</String></Pair> 
 				<Pair key="info"><String>v2.0.0</String></Pair> 
 			</Table>
@@ -52,7 +52,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DOSBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-HBDB90000_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/HBDB90000.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/HBDB90000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -68,7 +68,7 @@
 				<Pair key="pkg_src_qa"><String>https://xbins.org/libretro/stable/1.7.7/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SSNE10000_00-0000000000000001</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SSNE10000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -84,7 +84,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862805/ScummVM-v2.0.0-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SCUM12000_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SCUM12000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 

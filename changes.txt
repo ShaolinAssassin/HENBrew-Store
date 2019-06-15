@@ -1,3 +1,24 @@
+### 2019.XX.XX
+
+*BACKUP MANAGERS / ISO LAUNCHERS :*
++ 
+
+*HOMEBREW GAMES :* 
++ Flappy Birds - v1.0
++ Five Nights at Freddys - v1.0
++ SGT Puzzles  - v0.1
++ Sketch Fight - v0.3
++ Winters End - v1.0
+
+*MISC :* 
++ 
+
+*RETRO / EMULATORS :* 
++ 
+
+___
+
+
 ### 2019.06.10 - Initial release 
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*

@@ -5,62 +5,62 @@
 	<View id="henbrew_store_homebrew_games_main">
 		<Attributes>
 			<Table key="item_AVOIDANCE"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/AVOIDANCE.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/AVOIDANCE.PNG</String></Pair> 
 				<Pair key="title"><String>Avoidance</String></Pair> 
 				<Pair key="info"><String>v1.3 - By ThatOtherDev</String></Pair> 
 			</Table>
 			<Table key="item_CYLINDERD"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/CYLINDERD.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/CYLINDERD.PNG</String></Pair> 
 				<Pair key="title"><String>CylinderDodge</String></Pair> 
 				<Pair key="info"><String>v1.1 - By ThatOtherDev</String></Pair> 
 			</Table>
 			<Table key="item_FIVENATF0"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/FIVENATF0.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/FIVENATF0.PNG</String></Pair> 
 				<Pair key="title"><String>Five Nights at Freddys</String></Pair> 
 				<Pair key="info"><String>v1.0 - By Sandroron</String></Pair> 
 			</Table>
 			<Table key="item_FLAPBIRD0"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/FLAPBIRD0.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/FLAPBIRD0.PNG</String></Pair> 
 				<Pair key="title"><String>Flappy Birds</String></Pair> 
 				<Pair key="info"><String>v1.0 - By Sandroron</String></Pair> 
 			</Table>
 			<Table key="item_RETROHBV1"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/RETROHBV1.PNG</String></Pair> 
 				<Pair key="title"><String>Retro Collection Vol. 1 - Atari 2600 Edition</String></Pair> 
 				<Pair key="info"><String>Unknown - Various</String></Pair> 
 			</Table>
 			<Table key="item_RETROHBV2"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/RETROHBV2.PNG</String></Pair> 
 				<Pair key="title"><String>Retro Collection Vol. 2 - Nintendo NES Edition</String></Pair> 
 				<Pair key="info"><String>Unknown - Various</String></Pair> 
 			</Table>
 			<Table key="item_SGTPZL010"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SGTPZL010.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SGTPZL010.PNG</String></Pair> 
 				<Pair key="title"><String>SGT Puzzles </String></Pair> 
 				<Pair key="info"><String>v0.1 - By KaKaRoTo</String></Pair> 
 			</Table>
 			<Table key="item_SKETCHFIT"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SKETCHFIT.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SKETCHFIT.PNG</String></Pair> 
 				<Pair key="title"><String>Sketch Fight</String></Pair> 
 				<Pair key="info"><String>v0.3 - By ThatOtherDev</String></Pair> 
 			</Table>
 			<Table key="item_SMW00PS33"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SMW00PS33.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SMW00PS33.PNG</String></Pair> 
 				<Pair key="title"><String>Super Mario War</String></Pair> 
 				<Pair key="info"><String>v1.8 r3 - By Lachrymose</String></Pair> 
 			</Table>
 			<Table key="item_SUPERJUMP"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SUPERJUMP.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SUPERJUMP.PNG</String></Pair> 
 				<Pair key="title"><String>SuperPixelJumper</String></Pair> 
 				<Pair key="info"><String>v1.2 - By ThatOtherDev</String></Pair> 
 			</Table>
 			<Table key="item_SWINGBAL2"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SWINGBAL2.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SWINGBAL2.PNG</String></Pair> 
 				<Pair key="title"><String>Swingball 2</String></Pair> 
 				<Pair key="info"><String>v0.4 - By ThatOtherDev</String></Pair> 
 			</Table>
 			<Table key="item_WINTERSEN"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/WINTERSEN.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/WINTERSEN.PNG</String></Pair> 
 				<Pair key="title"><String>Winters End</String></Pair> 
 				<Pair key="info"><String>v1.0 - By ThatOtherDev</String></Pair> 
 			</Table>
@@ -151,7 +151,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133999080/Avoidance-v1.3-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>OP0001-AVOIDANCE_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/AVOIDANCE.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/AVOIDANCE.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -167,7 +167,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010516/CylinderDodge-v1.1-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-CYLINDERD_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/CYLINDERD.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/CYLINDERD.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -183,7 +183,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027388/Five-Nights-at-Freddys-v1.0-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-FIVENATF0_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/FIVENATF0.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/FIVENATF0.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -199,7 +199,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027400/Flappy-Birds-Family-v1.0-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-FLAPBIRD0_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/FLAPBIRD0.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/FLAPBIRD0.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -215,7 +215,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862166/Retro-Homebrew-Collection-Vol-1-Atari-2600-Edition-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>TP0001-RETROHBV1_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/RETROHBV1.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -231,7 +231,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862103/Retro-Homebrew-Collection-Vol-2-Nintendo-NES-Edition-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>TP0001-RETROHBV2_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/RETROHBV2.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -247,7 +247,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134023425/SGT-Puzzles-v0.1-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SGTPZL010_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SGTPZL010.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SGTPZL010.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -263,7 +263,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027394/Sketch-Fight-v0.3-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>TA9000-SKETCHFIT_00-GLORYOFBRUNESTUD</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SKETCHFIT.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SKETCHFIT.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -279,7 +279,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879674/Super-Mario-War-v1.8-r3-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SMW00PS33_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SMW00PS33.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SMW00PS33.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -295,7 +295,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010522/SuperPixelJumper-v1.2-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SUPERJUMP_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SUPERJUMP.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SUPERJUMP.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -311,7 +311,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010570/Swingball-2-v0.4-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>IP0001-SWINGBAL2_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/SWINGBAL2.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/SWINGBAL2.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -327,7 +327,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134027397/Winters-End-v1.0-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-WINTERSEN_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/WINTERSEN.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/WINTERSEN.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 

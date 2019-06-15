@@ -5,52 +5,52 @@
 	<View id="henbrew_store_backup_managers_launchers_main">
 		<Attributes>
 			<Table key="item_FILEMANAG"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/FILEMANAG.PNG</String></Pair> 
 				<Pair key="title"><String>Filemanager</String></Pair> 
 				<Pair key="info"><String>v1.35</String></Pair> 
 			</Table>
 			<Table key="item_IRISMAN00"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/IRISMAN00.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/IRISMAN00.PNG</String></Pair> 
 				<Pair key="title"><String>IrisMAN</String></Pair> 
 				<Pair key="info"><String>v4.84.5</String></Pair> 
 			</Table>
 			<Table key="item_MANAGUNZ0"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/MANAGUNZ0.PNG</String></Pair> 
 				<Pair key="title"><String>ManaGunZ</String></Pair> 
 				<Pair key="info"><String>v1.35-J (Joonie fix)</String></Pair> 
 			</Table>
 			<Table key="item_BLES80608"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/BLES80608.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/BLES80608.PNG</String></Pair> 
 				<Pair key="title"><String>multiMAN</String></Pair> 
 				<Pair key="info"><String>v0.4.82-HEN</String></Pair> 
 			</Table>
 			<Table key="item_PS2L00123"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PS2L00123.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PS2L00123.PNG</String></Pair> 
 				<Pair key="title"><String>PS2 Classics Manager</String></Pair> 
 				<Pair key="info"><String>v1.02</String></Pair> 
 			</Table>
 			<Table key="item_PS2U10000"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PS2U10000.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PS2U10000.PNG</String></Pair> 
 				<Pair key="title"><String>PS2 Classics Placeholder</String></Pair> 
 				<Pair key="info"><String>r3</String></Pair> 
 			</Table>
 			<Table key="item_PSPM66820"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PSPM66820.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PSPM66820.PNG</String></Pair> 
 				<Pair key="title"><String>PSP Mini Launcher</String></Pair> 
 				<Pair key="info"><String>v2.0 (JjKkYu fix)</String></Pair> 
 			</Table>
 			<Table key="item_PSPC66820"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PSPC66820.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PSPC66820.PNG</String></Pair> 
 				<Pair key="title"><String>PSP Remaster Launcher</String></Pair> 
 				<Pair key="info"><String>v2.0 (JjKkYu fix)</String></Pair> 
 			</Table>
 			<Table key="item_UPDWEBMOD"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/UPDWEBMOD.PNG</String></Pair> 
 				<Pair key="title"><String>webMAN MOD</String></Pair> 
 				<Pair key="info"><String>v1.47.22</String></Pair> 
 			</Table>
 			<Table key="item_UPDWEBMOD_beta"> 
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/UPDWEBMOD.PNG</String></Pair> 
 				<Pair key="title"><String>webMAN MOD Beta</String></Pair> 
 				<Pair key="info"><String>v1.47.22.4 Beta</String></Pair> 
 			</Table>
@@ -129,7 +129,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862157/FileManager-v1.35-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP0001-FILEMANAG_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/FILEMANAG.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -145,7 +145,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862130/IRISMAN-v4.84.5-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-IRISMAN00_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/IRISMAN00.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/IRISMAN00.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -161,7 +161,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133863294/ManaGunZ-v1.35-J-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP0001-MANAGUNZ0_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/MANAGUNZ0.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -177,7 +177,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133864317/multiMAN-v04.82.00-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>MM4PS3-BLES80608_00-MULTIMANAGER0470</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/BLES80608.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/BLES80608.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -193,7 +193,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133872798/PS2-Classics-Manager-v1.02-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>PS2CM0-PS2L00123_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PS2L00123.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PS2L00123.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -209,7 +209,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133872888/PS2-Classics-Placeholder-r3-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>2P0001-PS2U10000_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PS2U10000.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PS2U10000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -225,7 +225,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133883832/PSP-Mini-Launcher-v2.00-fixed-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-PSPM66820_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PSPM66820.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PSPM66820.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -241,7 +241,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133883841/PSP-Remaster-Launcher-v2.00-fixed-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-PSPC66820_00-0000111122223333</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/PSPC66820.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/PSPC66820.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -257,7 +257,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133990620/webMAN_MOD_1.47.22_Installer-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP0001-UPDWEBMOD_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/UPDWEBMOD.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -273,7 +273,7 @@
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134010198/webMAN-MOD-1.47.22.4-beta-Installer-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP0001-UPDWEBMOD_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
+				<Pair key="prod_pict_path"><String>http://raw.githubusercontent.com/ShaolinAssassin/HENBrew-Store/master/IMAGES/UPDWEBMOD.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
