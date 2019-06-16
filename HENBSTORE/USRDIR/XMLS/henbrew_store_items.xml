@@ -4,6 +4,48 @@
 
 	<View id="henbrew_store_items_main">
 		<Attributes>
+			<Table key="henbrew_store_feed">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>The Feed</String></Pair>
+				<Pair key="info"><String>Homebrews listed by release dates</String></Pair>
+			</Table>
+			<Table key="henbrew_store_store">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
+				<Pair key="title"><String>The Store</String></Pair>
+				<Pair key="info"><String>Homebrews listed by category</String></Pair>
+			</Table>		
+			<Table key="henbrew_store_about">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
+				<Pair key="title"><String>About</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_feed"
+				attr="henbrew_store_feed"				
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_feed.xml#henbrew_store_feed_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_store"
+				attr="henbrew_store_store"				
+				src="#henbrew_store_store_items_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henbrew_store_about" 
+				attr="henbrew_store_about"
+				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_about.xml#henbrew_store_about_main"
+				/>
+		</Items>
+	</View>
+
+<!-- HENBrew Store > Items > The Store -->
+
+	<View id="henbrew_store_store_items_main">
+		<Attributes>
 			<Table key="henbrew_store_backup_managers_launchers">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Backup Managers / ISO Launchers</String></Pair>
@@ -22,11 +64,6 @@
 			<Table key="henbrew_store_retro">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>Retro / Emulators</String></Pair>
-				<Pair key="info"><String></String></Pair>
-			</Table>			
-			<Table key="henbrew_store_about">
-				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/about.png</String></Pair>
-				<Pair key="title"><String>About</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
@@ -54,12 +91,6 @@
 				key="henbrew_store_retro"
 				attr="henbrew_store_retro"				
 				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_retro.xml#henbrew_store_retro_main"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="henbrew_store_about" 
-				attr="henbrew_store_about"
-				src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/henbrew_store_about.xml#henbrew_store_about_main"
 				/>
 		</Items>
 	</View>
