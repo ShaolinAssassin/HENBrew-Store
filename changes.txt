@@ -1,3 +1,16 @@
+### 2019.XX.XX - Sunday Update #2
+
+*BACKUP MANAGERS / ISO LAUNCHERS :*
++ 
+
+*HOMEBREW GAMES :* 
++ Avoidance - v1.3 (fixed installation error)
+
+*MISC :* 
++ 
+
+___
+
 ### 2019.06.16 - Sunday Update #1
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*
