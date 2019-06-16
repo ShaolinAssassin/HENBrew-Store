@@ -1,6 +1,7 @@
-### 2019.XX.XX
+### 2019.06.16
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*
++ sMAN - v1.12n (addition)
 + webMAN MOD - v1.47.23 (update)
 
 *HOMEBREW GAMES :* 
@@ -12,6 +13,7 @@
 
 *MISC :* 
 + HEN Toolbox - v1.00 (addition)
++ Movian - v5.0.494-FIXED_DVBSUB (addition)
 
 ___
 

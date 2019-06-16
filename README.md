@@ -1,3 +1,23 @@
+### 2019.06.16
+
+*BACKUP MANAGERS / ISO LAUNCHERS :*
++ sMAN - v1.12n (addition)
++ webMAN MOD - v1.47.23 (update)
+
+*HOMEBREW GAMES :* 
++ Flappy Birds - v1.0 (addition)
++ Five Nights at Freddys - v1.0 (addition)
++ SGT Puzzles  - v0.1 (addition)
++ Sketch Fight - v0.3 (addition)
++ Winters End - v1.0 (addition)
+
+*MISC :* 
++ HEN Toolbox - v1.00 (addition)
++ Movian - v5.0.494-FIXED_DVBSUB (addition)
+
+___
+
+
 ### 2019.06.10 - Initial release 
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*
