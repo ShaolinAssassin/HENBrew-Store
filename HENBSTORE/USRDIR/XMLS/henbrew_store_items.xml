@@ -7,7 +7,7 @@
 			<Table key="henbrew_store_feed">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
 				<Pair key="title"><String>The Feed</String></Pair>
-				<Pair key="info"><String>Homebrews listed by release dates</String></Pair>
+				<Pair key="info"><String>Homebrews listed by release date</String></Pair>
 			</Table>
 			<Table key="henbrew_store_store">
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/ICONS/folder.png</String></Pair>
