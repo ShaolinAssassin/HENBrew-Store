@@ -2,7 +2,7 @@
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*
 + sMAN - v1.12n (addition)
-+ webMAN MOD - v1.47.23 (update)
++ webMAN MOD - v1.47.23.2 (update)
 
 *HOMEBREW GAMES :* 
 + Flappy Birds - v1.0 (addition)
