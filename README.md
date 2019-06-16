@@ -1,4 +1,4 @@
-### 2019.06.16
+### 2019.06.16 - Sunday Update #1
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*
 + sMAN - v1.12n (addition)

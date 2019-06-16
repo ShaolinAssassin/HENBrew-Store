@@ -9,7 +9,7 @@
 				<Pair key="title"><String>HEN Toolbox</String></Pair> 
 				<Pair key="info"><String>v1.00</String></Pair> 
 			</Table>
-			<Table key="item_HTSS00003"> 
+			<Table key="item_HTSS00003_alt"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
 				<Pair key="title"><String>Movian</String></Pair> 
 				<Pair key="info"><String>v5.0.494-FIXED_DVBSUB</String></Pair> 
@@ -29,9 +29,9 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_HTSS00003" 
-				attr="item_HTSS00003" 
-				src="#item_HTSS00003_main" 
+				key="item_HTSS00003_alt" 
+				attr="item_HTSS00003_alt" 
+				src="#item_HTSS00003_alt_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -60,9 +60,9 @@
 		</Items> 
 	</View> 
 
-	<View id="item_HTSS00003_main"> 
+	<View id="item_HTSS00003_alt_main"> 
 		<Attributes> 
-			<Table key="item_HTSS00003_link"> 
+			<Table key="item_HTSS00003_alt_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134117148/Movian-v5.0.494-FIXED_DVBSUB-HEN.pkg?force_download=1</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134117148/Movian-v5.0.494-FIXED_DVBSUB-HEN.pkg?force_download=1</String></Pair> 
@@ -72,7 +72,7 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_HTSS00003_link" attr="item_HTSS00003_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_HTSS00003_alt_link" attr="item_HTSS00003_alt_link"/> 
 		</Items> 
 	</View> 
 
