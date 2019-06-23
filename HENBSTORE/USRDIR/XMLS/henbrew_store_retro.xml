@@ -1,6 +1,6 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Retro Items [Last DB update: 16/06/2019] --> 
+<!-- HENBrew Store > Retro Items [Last DB update: 23/06/2019] --> 
  
 	<View id="henbrew_store_retro_main">
 		<Attributes>
@@ -18,6 +18,11 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
 				<Pair key="title"><String>ScummVM</String></Pair> 
 				<Pair key="info"><String>v2.0.0</String></Pair> 
+			</Table>
+			<Table key="item_SNES90000"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SNES90000.PNG</String></Pair> 
+				<Pair key="title"><String>Snes9XNext PS3</String></Pair> 
+				<Pair key="info"><String>v1.0</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>
@@ -38,6 +43,12 @@
 				key="item_SCUM12000" 
 				attr="item_SCUM12000" 
 				src="#item_SCUM12000_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SNES90000" 
+				attr="item_SNES90000" 
+				src="#item_SNES90000_main" 
 			/>
 		</Items>
 	</View>
@@ -89,6 +100,22 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_SCUM12000_link" attr="item_SCUM12000_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SNES90000_main"> 
+		<Attributes> 
+			<Table key="item_SNES90000_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134233455/SNES9xNext-PS3-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134233455/SNES9xNext-PS3-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-SNES90000_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SNES90000.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SNES90000_link" attr="item_SNES90000_link"/> 
 		</Items> 
 	</View> 
 

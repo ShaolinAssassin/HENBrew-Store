@@ -1,3 +1,17 @@
+### 2019.06.23 - Sunday Update #2
+
+*BACKUP MANAGERS / ISO LAUNCHERS :*
++ webMAN MOD - v1.47.24 (update)
+
+*HOMEBREW GAMES :* 
++ Avoidance - v1.3 (fixed installation error)
+
+*RETRO / EMULATORS :*  
++ Snes9XNext PS3 - v1.0 (addition)
+
+___
+
+
 ### 2019.06.16 - Sunday Update #1
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*
