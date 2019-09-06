@@ -1,3 +1,25 @@
+### 2019.09.06 - Back From Summer Break Update #3
+
+*BACKUP MANAGERS :*
++ FileManager - v1.36 (update)
++ ManaGunZ - v1.36 (update)
+
+*MISC :* 
++ Advanced Power Options - v1.10 (addition)
++ Movian (Nightly Build) - v5.0.548 (addition)
++ Movian (deank fork) - v5.0.602 (update)
++ PS3 4K PRO MOD - v3.4.1 (addition)
+
+*PLUGINS :* 
++ webMAN MOD - v1.47.25.9 (update)
+
+*RETRO / EMULATORS :*  
++ RetroArch PS3 - v1.7.8 (hotfix 1) (update)
++ RetroArch PS3 - Nightly Build (addition)
+
+___
+
+
 ### 2019.06.23 - Sunday Update #2
 
 *BACKUP MANAGERS / ISO LAUNCHERS :*

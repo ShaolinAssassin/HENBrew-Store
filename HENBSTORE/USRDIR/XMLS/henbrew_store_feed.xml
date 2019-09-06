@@ -1,84 +1,219 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Items > The Feed [Last update: 23/06/2019] --> 
+<!-- HENBrew Store > Items > The Feed [Last update: 06/09/2019] --> 
  
 	<View id="henbrew_store_feed_main">
 		<Attributes>
-			<Table key="item_UPDWEBMOD_14724"> 
+			<Table key="item_UPDWEBMOD_147259"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
-				<Pair key="title"><String>webMAN MOD</String></Pair> 
-				<Pair key="info"><String>v1.47.24 - 2019/06/22 - By Aldostools</String></Pair> 
+				<Pair key="title"><String>webMAN MOD [4.85] v1.47.25.9</String></Pair> 
+				<Pair key="info"><String>AIO Plugin - 2019/09/05 - By Aldostools</String></Pair> 
 			</Table>
-			<Table key="item_UPDWEBMOD_147232"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
-				<Pair key="title"><String>webMAN MOD</String></Pair> 
-				<Pair key="info"><String>v1.47.23.2 - 2019/06/16 - By Aldostools</String></Pair> 
+			<Table key="item_SSNE10000_178v2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
+				<Pair key="title"><String>RetroArch PS3 v1.7.8 (hotfix 1)</String></Pair> 
+				<Pair key="info"><String>Retro - 2019/08/31 - By Libretro</String></Pair> 
 			</Table>
-			<Table key="item_HENTOOLBX_v100"> 
+			<Table key="item_PS3HENPRO_341"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS3HENPRO.PNG</String></Pair> 
+				<Pair key="title"><String>PS3 4K PRO MOD v3.4.1</String></Pair> 
+				<Pair key="info"><String>XMB Mod (Misc) - 2019/08/28 - By LuanTeles</String></Pair> 
+			</Table>
+			<Table key="item_RELOADXM1_110"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RELOADXM1.PNG</String></Pair> 
+				<Pair key="title"><String>Advanced Power Options v1.10</String></Pair> 
+				<Pair key="info"><String>XMB Mod (Misc) - 2019/08/25 - By DeViL303</String></Pair> 
+			</Table>
+			<Table key="item_FILEMANAG_136"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
+				<Pair key="title"><String>FileManager v1.36</String></Pair> 
+				<Pair key="info"><String>Backup Manager - 2019/08/24 - By Zar</String></Pair> 
+			</Table>
+			<Table key="item_MANAGUNZ0_136"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
+				<Pair key="title"><String>ManaGunZ v1.36</String></Pair> 
+				<Pair key="info"><String>Backup Manager - 2019/08/24 - By Zar</String></Pair> 
+			</Table>
+			<Table key="item_HTSS00003_50602"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
+				<Pair key="title"><String>Movian v5.0.602 (deank fork)</String></Pair> 
+				<Pair key="info"><String>Multimedia (Misc) - 2019/07/02 - By deank</String></Pair> 
+			</Table>
+			<Table key="item_HENTOOLBX_100"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HENTOOLBX.PNG</String></Pair> 
-				<Pair key="title"><String>HEN Toolbox</String></Pair> 
-				<Pair key="info"><String>v1.00 - 2019/06/15 - By DeViL303</String></Pair> 
+				<Pair key="title"><String>HEN Toolbox v1.00</String></Pair> 
+				<Pair key="info"><String>XMB Mod (Misc) - 2019/06/15 - By DeViL303</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_UPDWEBMOD_14724" 
-				attr="item_UPDWEBMOD_14724" 
-				src="#item_UPDWEBMOD_14724_main" 
+				key="item_UPDWEBMOD_147259" 
+				attr="item_UPDWEBMOD_147259" 
+				src="#item_UPDWEBMOD_147259_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_UPDWEBMOD_147232" 
-				attr="item_UPDWEBMOD_147232" 
-				src="#item_UPDWEBMOD_147232_main" 
+				key="item_SSNE10000_178v2" 
+				attr="item_SSNE10000_178v2" 
+				src="#item_SSNE10000_178v2_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_HENTOOLBX_v100" 
-				attr="item_HENTOOLBX_v100" 
-				src="#item_HENTOOLBX_v100_main" 
+				key="item_PS3HENPRO_341" 
+				attr="item_PS3HENPRO_341" 
+				src="#item_PS3HENPRO_341_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_RELOADXM1_110" 
+				attr="item_RELOADXM1_110" 
+				src="#item_RELOADXM1_110_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_FILEMANAG_136" 
+				attr="item_FILEMANAG_136" 
+				src="#item_FILEMANAG_136_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_MANAGUNZ0_136" 
+				attr="item_MANAGUNZ0_136" 
+				src="#item_MANAGUNZ0_136_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_HTSS00003_50602" 
+				attr="item_HTSS00003_50602" 
+				src="#item_HTSS00003_50602_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_HENTOOLBX_100" 
+				attr="item_HENTOOLBX_100" 
+				src="#item_HENTOOLBX_100_main" 
 			/>
 		</Items>
 	</View>
 
 <!-- HENBrew Store > Items > The Feed > Download links --> 
 
-	<View id="item_UPDWEBMOD_14724_main"> 
+	<View id="item_UPDWEBMOD_147259_main"> 
 		<Attributes> 
-			<Table key="item_UPDWEBMOD_14724_link"> 
+			<Table key="item_UPDWEBMOD_147259_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134233485/webMAN-MOD-1.47.24-Installer-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134233485/webMAN-MOD-1.47.24-Installer-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/snfptunjlf9keyk/webMAN-MOD-1.47.25.9-Installer-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/snfptunjlf9keyk/webMAN-MOD-1.47.25.9-Installer-HEN.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP0001-UPDWEBMOD_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_UPDWEBMOD_14724_link" attr="item_UPDWEBMOD_14724_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_UPDWEBMOD_147259_link" attr="item_UPDWEBMOD_147259_link"/> 
 		</Items> 
 	</View> 
 
-	<View id="item_UPDWEBMOD_147232_main"> 
+	<View id="item_SSNE10000_178v2_main"> 
 		<Attributes> 
-			<Table key="item_UPDWEBMOD_147232_link"> 
+			<Table key="item_SSNE10000_178v2_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134120856/webMAN-MOD-1.47.23.2-Installer-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134120856/webMAN-MOD-1.47.23.2-Installer-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://xbins.org/libretro/stable/1.7.8/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://xbins.org/libretro/stable/1.7.8/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>EP0001-UPDWEBMOD_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/UPDWEBMOD.PNG</String></Pair> 
+				<Pair key="content_id"><String>UP0001-SSNE10000_00-0000000000000001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_UPDWEBMOD_147232_link" attr="item_UPDWEBMOD_147232_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SSNE10000_178v2_link" attr="item_SSNE10000_178v2_link"/> 
 		</Items> 
 	</View> 
 
-	<View id="item_HENTOOLBX_v100_main"> 
+	<View id="item_PS3HENPRO_341_main"> 
 		<Attributes> 
-			<Table key="item_HENTOOLBX_v100_link"> 
+			<Table key="item_PS3HENPRO_341_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/8268m2dduvwumbi/PS3-4K-Pro-v3.4.1-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/8268m2dduvwumbi/PS3-4K-Pro-v3.4.1-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>CFWPS3-PS3HENPRO_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS3HENPRO.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PS3HENPRO_341_link" attr="item_PS3HENPRO_341_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_RELOADXM1_110_main"> 
+		<Attributes> 
+			<Table key="item_RELOADXM1_110_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/e92omw90vyp6qz7/Advanced-Power-Options-v1.10-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/e92omw90vyp6qz7/Advanced-Power-Options-v1.10-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>CUSTOM-RELOADXM1_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RELOADXM1.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_RELOADXM1_110_link" attr="item_RELOADXM1_110_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_FILEMANAG_136_main"> 
+		<Attributes> 
+			<Table key="item_FILEMANAG_136_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/kwdqgzvwl216n12/FileManager-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/kwdqgzvwl216n12/FileManager-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-FILEMANAG_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_FILEMANAG_136_link" attr="item_FILEMANAG_136_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_MANAGUNZ0_136_main"> 
+		<Attributes> 
+			<Table key="item_MANAGUNZ0_136_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/gi2fscav0tbiiaf/ManaGunZ-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/gi2fscav0tbiiaf/ManaGunZ-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-MANAGUNZ0_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_MANAGUNZ0_136_link" attr="item_MANAGUNZ0_136_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_HTSS00003_50602_main"> 
+		<Attributes> 
+			<Table key="item_HTSS00003_50602_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/wqhjroiv7pp4j4z/Movian-v5.0.602-deank-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/wqhjroiv7pp4j4z/Movian-v5.0.602-deank-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-HTSS00003_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_HTSS00003_50602_link" attr="item_HTSS00003_50602_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_HENTOOLBX_100_main"> 
+		<Attributes> 
+			<Table key="item_HENTOOLBX_100_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://devil303.com/HEN_Toolbox/HEN_Toolbox_v1.00.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://devil303.com/HEN_Toolbox/HEN_Toolbox_v1.00.pkg</String></Pair> 
@@ -88,7 +223,7 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_HENTOOLBX_v100_link" attr="item_HENTOOLBX_v100_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_HENTOOLBX_100_link" attr="item_HENTOOLBX_100_link"/> 
 		</Items> 
 	</View> 
 

@@ -1,0 +1,149 @@
+<XMBML version="1.0"> 
+ 
+<!-- HENBrew Store > Backup Managers Items [Last DB update: 06/09/2019] --> 
+ 
+	<View id="henbrew_store_backup_managers_main">
+		<Attributes>
+			<Table key="item_FILEMANAG_136"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
+				<Pair key="title"><String>FileManager</String></Pair> 
+				<Pair key="info"><String>v1.36</String></Pair> 
+			</Table>
+			<Table key="item_IRISMAN00_485"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/IRISMAN00.PNG</String></Pair> 
+				<Pair key="title"><String>IrisMAN</String></Pair> 
+				<Pair key="info"><String>v4.84.5</String></Pair> 
+			</Table>
+			<Table key="item_MANAGUNZ0_136"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
+				<Pair key="title"><String>ManaGunZ</String></Pair> 
+				<Pair key="info"><String>v1.36</String></Pair> 
+			</Table>
+			<Table key="item_BLES80608_0482hen"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/BLES80608.PNG</String></Pair> 
+				<Pair key="title"><String>multiMAN</String></Pair> 
+				<Pair key="info"><String>v0.4.82-HEN</String></Pair> 
+			</Table>
+			<Table key="item_PS2L00123_102"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS2L00123.PNG</String></Pair> 
+				<Pair key="title"><String>PS2 Classics Manager</String></Pair> 
+				<Pair key="info"><String>v1.02</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_FILEMANAG_136" 
+				attr="item_FILEMANAG_136" 
+				src="#item_FILEMANAG_136_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_IRISMAN00_485" 
+				attr="item_IRISMAN00_485" 
+				src="#item_IRISMAN00_485_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_MANAGUNZ0_136" 
+				attr="item_MANAGUNZ0_136" 
+				src="#item_MANAGUNZ0_136_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_BLES80608_0482hen" 
+				attr="item_BLES80608_0482hen" 
+				src="#item_BLES80608_0482hen_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_PS2L00123_102" 
+				attr="item_PS2L00123_102" 
+				src="#item_PS2L00123_102_main" 
+			/>
+		</Items>
+	</View>
+
+<!-- HENBrew Store > Backup Managers Items > Download links --> 
+
+	<View id="item_FILEMANAG_136_main"> 
+		<Attributes> 
+			<Table key="item_FILEMANAG_136_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/kwdqgzvwl216n12/FileManager-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/kwdqgzvwl216n12/FileManager-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-FILEMANAG_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/FILEMANAG.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_FILEMANAG_136_link" attr="item_FILEMANAG_136_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_IRISMAN00_485_main"> 
+		<Attributes> 
+			<Table key="item_IRISMAN00_485_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/8hvwu4dywt8anjv/IRISMAN-v4.84.5-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/8hvwu4dywt8anjv/IRISMAN-v4.84.5-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-IRISMAN00_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/IRISMAN00.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_IRISMAN00_485_link" attr="item_IRISMAN00_485_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_MANAGUNZ0_136_main"> 
+		<Attributes> 
+			<Table key="item_MANAGUNZ0_136_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/gi2fscav0tbiiaf/ManaGunZ-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/gi2fscav0tbiiaf/ManaGunZ-v1.36-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-MANAGUNZ0_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MANAGUNZ0.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_MANAGUNZ0_136_link" attr="item_MANAGUNZ0_136_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_BLES80608_0482hen_main"> 
+		<Attributes> 
+			<Table key="item_BLES80608_0482hen_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/jmtuf29p7r4c3l7/multiMAN-v04.82.00-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/jmtuf29p7r4c3l7/multiMAN-v04.82.00-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>MM4PS3-BLES80608_00-MULTIMANAGER0470</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/BLES80608.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_BLES80608_0482hen_link" attr="item_BLES80608_0482hen_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_PS2L00123_102_main"> 
+		<Attributes> 
+			<Table key="item_PS2L00123_102_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/qlmtibxqromm5fl/PS2-Classics-Manager-v1.02-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/qlmtibxqromm5fl/PS2-Classics-Manager-v1.02-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>PS2CM0-PS2L00123_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS2L00123.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PS2L00123_102_link" attr="item_PS2L00123_102_link"/> 
+		</Items> 
+	</View> 
+
+</XMBML>

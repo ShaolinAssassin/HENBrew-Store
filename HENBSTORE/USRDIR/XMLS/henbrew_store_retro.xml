@@ -1,25 +1,40 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Retro Items [Last DB update: 23/06/2019] --> 
+<!-- HENBrew Store > Retro Items [Last DB update: 06/09/2019] --> 
  
 	<View id="henbrew_store_retro_main">
 		<Attributes>
-			<Table key="item_HBDB90000"> 
+			<Table key="item_HBDB90000_074r1"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HBDB90000.PNG</String></Pair> 
 				<Pair key="title"><String>DOSBox</String></Pair> 
 				<Pair key="info"><String>v0.74 r1</String></Pair> 
 			</Table>
-			<Table key="item_SSNE10000"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
-				<Pair key="title"><String>RetroArch PS3</String></Pair> 
-				<Pair key="info"><String>v1.7.7</String></Pair> 
+			<Table key="item_RETROHBV1"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
+				<Pair key="title"><String>Retro Collection Vol. 1 - Atari 2600 Edition</String></Pair> 
+				<Pair key="info"><String>Unk.</String></Pair> 
 			</Table>
-			<Table key="item_SCUM12000"> 
+			<Table key="item_RETROHBV2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
+				<Pair key="title"><String>Retro Collection Vol. 2 - Nintendo NES Edition</String></Pair> 
+				<Pair key="info"><String>Unk.</String></Pair> 
+			</Table>
+			<Table key="item_SSNE10000_nightly"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
+				<Pair key="title"><String>RetroArch PS3 (Nightly)</String></Pair> 
+				<Pair key="info"><String>Nightly Build</String></Pair> 
+			</Table>
+			<Table key="item_SSNE10000_178hotfix1"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
+				<Pair key="title"><String>RetroArch PS3 (Stable)</String></Pair> 
+				<Pair key="info"><String>v1.7.8 (hotfix 1)</String></Pair> 
+			</Table>
+			<Table key="item_SCUM12000_200"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
 				<Pair key="title"><String>ScummVM</String></Pair> 
 				<Pair key="info"><String>v2.0.0</String></Pair> 
 			</Table>
-			<Table key="item_SNES90000"> 
+			<Table key="item_SNES90000_10"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SNES90000.PNG</String></Pair> 
 				<Pair key="title"><String>Snes9XNext PS3</String></Pair> 
 				<Pair key="info"><String>v1.0</String></Pair> 
@@ -28,94 +43,160 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_HBDB90000" 
-				attr="item_HBDB90000" 
-				src="#item_HBDB90000_main" 
+				key="item_HBDB90000_074r1" 
+				attr="item_HBDB90000_074r1" 
+				src="#item_HBDB90000_074r1_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_SSNE10000" 
-				attr="item_SSNE10000" 
-				src="#item_SSNE10000_main" 
+				key="item_RETROHBV1" 
+				attr="item_RETROHBV1" 
+				src="#item_RETROHBV1_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_SCUM12000" 
-				attr="item_SCUM12000" 
-				src="#item_SCUM12000_main" 
+				key="item_RETROHBV2" 
+				attr="item_RETROHBV2" 
+				src="#item_RETROHBV2_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_SNES90000" 
-				attr="item_SNES90000" 
-				src="#item_SNES90000_main" 
+				key="item_SSNE10000_nightly" 
+				attr="item_SSNE10000_nightly" 
+				src="#item_SSNE10000_nightly_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SSNE10000_178hotfix1" 
+				attr="item_SSNE10000_178hotfix1" 
+				src="#item_SSNE10000_178hotfix1_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SCUM12000_200" 
+				attr="item_SCUM12000_200" 
+				src="#item_SCUM12000_200_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_SNES90000_10" 
+				attr="item_SNES90000_10" 
+				src="#item_SNES90000_10_main" 
 			/>
 		</Items>
 	</View>
 
 <!-- HENBrew Store > Retro Items > Download links --> 
 
-	<View id="item_HBDB90000_main"> 
+	<View id="item_HBDB90000_074r1_main"> 
 		<Attributes> 
-			<Table key="item_HBDB90000_link"> 
+			<Table key="item_HBDB90000_074r1_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DOSBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133879755/DOSBox-v0.74-r1-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/rrdw25cyebzppk4/DOSBox-v0.74-r1-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/rrdw25cyebzppk4/DOSBox-v0.74-r1-HEN.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-HBDB90000_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HBDB90000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_HBDB90000_link" attr="item_HBDB90000_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_HBDB90000_074r1_link" attr="item_HBDB90000_074r1_link"/> 
 		</Items> 
 	</View> 
 
-	<View id="item_SSNE10000_main"> 
+	<View id="item_RETROHBV1_main"> 
 		<Attributes> 
-			<Table key="item_SSNE10000_link"> 
+			<Table key="item_RETROHBV1_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://xbins.org/libretro/stable/1.7.7/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://xbins.org/libretro/stable/1.7.7/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/psluoyk5wowyqsm/Retro-Homebrew-Collection-Vol-1-Atari-2600-Edition-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/psluoyk5wowyqsm/Retro-Homebrew-Collection-Vol-1-Atari-2600-Edition-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>TP0001-RETROHBV1_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV1.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_RETROHBV1_link" attr="item_RETROHBV1_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_RETROHBV2_main"> 
+		<Attributes> 
+			<Table key="item_RETROHBV2_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/6ftx5w2dhtu7viw/Retro-Homebrew-Collection-Vol-2-Nintendo-NES-Edition-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/6ftx5w2dhtu7viw/Retro-Homebrew-Collection-Vol-2-Nintendo-NES-Edition-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>TP0001-RETROHBV2_00-0000111122223333</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RETROHBV2.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_RETROHBV2_link" attr="item_RETROHBV2_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SSNE10000_nightly_main"> 
+		<Attributes> 
+			<Table key="item_SSNE10000_nightly_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://xbins.org/libretro/nightly/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://xbins.org/libretro/nightly/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SSNE10000_00-0000000000000001</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_SSNE10000_link" attr="item_SSNE10000_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SSNE10000_nightly_link" attr="item_SSNE10000_nightly_link"/> 
 		</Items> 
 	</View> 
 
-	<View id="item_SCUM12000_main"> 
+	<View id="item_SSNE10000_178hotfix1_main"> 
 		<Attributes> 
-			<Table key="item_SCUM12000_link"> 
+			<Table key="item_SSNE10000_178hotfix1_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862805/ScummVM-v2.0.0-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/133862805/ScummVM-v2.0.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://xbins.org/libretro/stable/1.7.8/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://xbins.org/libretro/stable/1.7.8/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-SSNE10000_00-0000000000000001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SSNE10000_178hotfix1_link" attr="item_SSNE10000_178hotfix1_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_SCUM12000_200_main"> 
+		<Attributes> 
+			<Table key="item_SCUM12000_200_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/1xkv06v5iq001yv/ScummVM-v2.0.0-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/1xkv06v5iq001yv/ScummVM-v2.0.0-HEN.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP0001-SCUM12000_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_SCUM12000_link" attr="item_SCUM12000_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SCUM12000_200_link" attr="item_SCUM12000_200_link"/> 
 		</Items> 
 	</View> 
 
-	<View id="item_SNES90000_main"> 
+	<View id="item_SNES90000_10_main"> 
 		<Attributes> 
-			<Table key="item_SNES90000_link"> 
+			<Table key="item_SNES90000_10_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://henbrewstore.pbworks.com/w/file/fetch/134233455/SNES9xNext-PS3-v1.0-HEN.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://henbrewstore.pbworks.com/w/file/fetch/134233455/SNES9xNext-PS3-v1.0-HEN.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/u5w52ux03vn7ntt/SNES9xNext-PS3-v1.0-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/u5w52ux03vn7ntt/SNES9xNext-PS3-v1.0-HEN.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP0001-SNES90000_00-0000111122223333</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SNES90000.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_SNES90000_link" attr="item_SNES90000_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SNES90000_10_link" attr="item_SNES90000_10_link"/> 
 		</Items> 
 	</View> 
 
