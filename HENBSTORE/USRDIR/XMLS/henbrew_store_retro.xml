@@ -1,6 +1,6 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Retro Items [Last DB update: 06/09/2019] --> 
+<!-- HENBrew Store > Retro Items [Last DB update: 06/10/2019] --> 
  
 	<View id="henbrew_store_retro_main">
 		<Attributes>
@@ -24,10 +24,10 @@
 				<Pair key="title"><String>RetroArch PS3 (Nightly)</String></Pair> 
 				<Pair key="info"><String>Nightly Build</String></Pair> 
 			</Table>
-			<Table key="item_SSNE10000_178hotfix1"> 
+			<Table key="item_SSNE10000_1784"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SSNE10000.PNG</String></Pair> 
 				<Pair key="title"><String>RetroArch PS3 (Stable)</String></Pair> 
-				<Pair key="info"><String>v1.7.8 (hotfix 1)</String></Pair> 
+				<Pair key="info"><String>v1.7.9</String></Pair> 
 			</Table>
 			<Table key="item_SCUM12000_200"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/SCUM12000.PNG</String></Pair> 
@@ -67,9 +67,9 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_SSNE10000_178hotfix1" 
-				attr="item_SSNE10000_178hotfix1" 
-				src="#item_SSNE10000_178hotfix1_main" 
+				key="item_SSNE10000_1784" 
+				attr="item_SSNE10000_1784" 
+				src="#item_SSNE10000_1784_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -152,9 +152,9 @@
 		</Items> 
 	</View> 
 
-	<View id="item_SSNE10000_178hotfix1_main"> 
+	<View id="item_SSNE10000_1784_main"> 
 		<Attributes> 
-			<Table key="item_SSNE10000_178hotfix1_link"> 
+			<Table key="item_SSNE10000_1784_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>https://xbins.org/libretro/stable/1.7.8/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>https://xbins.org/libretro/stable/1.7.8/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg</String></Pair> 
@@ -164,7 +164,7 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_SSNE10000_178hotfix1_link" attr="item_SSNE10000_178hotfix1_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_SSNE10000_1784_link" attr="item_SSNE10000_1784_link"/> 
 		</Items> 
 	</View> 
 

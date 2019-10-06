@@ -1,3 +1,24 @@
+### 2019.10.06 - Sunday Update #4
+
+*BACKUP MANAGERS :*
++ FileManager - v1.37 (update)
++ IrisMAN - v4.85 (update)
++ ManaGunZ - v1.37 (update)
++ multiMAN - v0.4.85 BASE(update) 
+
+*MISC :* 
++ Advanced Power Options - v1.11 (update)
++ PS3 Podcast Player Enabler - v1.00 (addition)
++ PS3 4K PRO MOD - v4.1 (update)
++ The Blindboy Podcast - v0.50 (addition)
++ The Official Playstation Blogcast (addition)
+
+*RETRO / EMULATORS :*  
++ RetroArch PS3 - v1.7.9 (update)
+
+___
+
+
 ### 2019.09.06 - Back From Summer Break Update #3
 
 *BACKUP MANAGERS :*
@@ -14,7 +35,7 @@
 + webMAN MOD - v1.47.25.9 (update)
 
 *RETRO / EMULATORS :*  
-+ RetroArch PS3 - v1.7.8 (hotfix 1) (update)
++ RetroArch PS3 - v1.7.8 (v1) (update)
 + RetroArch PS3 - Nightly Build (addition)
 
 ___

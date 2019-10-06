@@ -1,18 +1,23 @@
 <XMBML version="1.0"> 
  
-<!-- HENBrew Store > Multimedia Items [Last DB update: 06/09/2019] --> 
+<!-- HENBrew Store > Multimedia Items [Last DB update: 06/10/2019] --> 
  
 	<View id="henbrew_store_misc_main">
 		<Attributes>
-			<Table key="item_RELOADXM1_110"> 
+			<Table key="item_RELOADXM1_111"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RELOADXM1.PNG</String></Pair> 
 				<Pair key="title"><String>Advanced Power Options</String></Pair> 
-				<Pair key="info"><String>v1.10</String></Pair> 
+				<Pair key="info"><String>v1.11</String></Pair> 
 			</Table>
 			<Table key="item_HENTOOLBX_100"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HENTOOLBX.PNG</String></Pair> 
 				<Pair key="title"><String>HEN Toolbox</String></Pair> 
 				<Pair key="info"><String>v1.00</String></Pair> 
+			</Table>
+			<Table key="item_HTSS00003_50602"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
+				<Pair key="title"><String>Movian (deank fork)</String></Pair> 
+				<Pair key="info"><String>v5.0.602</String></Pair> 
 			</Table>
 			<Table key="item_HTSS00003_50548"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
@@ -24,29 +29,45 @@
 				<Pair key="title"><String>Movian (Stable Build)</String></Pair> 
 				<Pair key="info"><String>v5.0.546</String></Pair> 
 			</Table>
-			<Table key="item_HTSS00003_50602"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
-				<Pair key="title"><String>Movian (deank fork)</String></Pair> 
-				<Pair key="info"><String>v5.0.602</String></Pair> 
-			</Table>
-			<Table key="item_PS3HENPRO_341"> 
+			<Table key="item_PS3HENPRO_41"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS3HENPRO.PNG</String></Pair> 
 				<Pair key="title"><String>PS3 4K PRO MOD</String></Pair> 
-				<Pair key="info"><String>v3.4.1</String></Pair> 
+				<Pair key="info"><String>v4.1</String></Pair> 
+			</Table>
+			<Table key="item_PODCAST00_100"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PODCAST00.PNG</String></Pair> 
+				<Pair key="title"><String>PS3 Podcast Player Enabler</String></Pair> 
+				<Pair key="info"><String>v1.00</String></Pair> 
+			</Table>
+			<Table key="item_PODCAST01_050"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PODCAST02.PNG</String></Pair> 
+				<Pair key="title"><String>The Blindboy Podcast</String></Pair> 
+				<Pair key="info"><String>v0.50</String></Pair> 
+			</Table>
+			<Table key="item_PODCAST02"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PODCAST02.PNG</String></Pair> 
+				<Pair key="title"><String>The Official Playstation Blogcast</String></Pair> 
+				<Pair key="info"><String>Initial</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_RELOADXM1_110" 
-				attr="item_RELOADXM1_110" 
-				src="#item_RELOADXM1_110_main" 
+				key="item_RELOADXM1_111" 
+				attr="item_RELOADXM1_111" 
+				src="#item_RELOADXM1_111_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_HENTOOLBX_100" 
 				attr="item_HENTOOLBX_100" 
 				src="#item_HENTOOLBX_100_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_HTSS00003_50602" 
+				attr="item_HTSS00003_50602" 
+				src="#item_HTSS00003_50602_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -62,34 +83,46 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_HTSS00003_50602" 
-				attr="item_HTSS00003_50602" 
-				src="#item_HTSS00003_50602_main" 
+				key="item_PS3HENPRO_41" 
+				attr="item_PS3HENPRO_41" 
+				src="#item_PS3HENPRO_41_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_PS3HENPRO_341" 
-				attr="item_PS3HENPRO_341" 
-				src="#item_PS3HENPRO_341_main" 
+				key="item_PODCAST00_100" 
+				attr="item_PODCAST00_100" 
+				src="#item_PODCAST00_100_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_PODCAST01_050" 
+				attr="item_PODCAST01_050" 
+				src="#item_PODCAST01_050_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_PODCAST02" 
+				attr="item_PODCAST02" 
+				src="#item_PODCAST02_main" 
 			/>
 		</Items>
 	</View>
 
 <!-- HENBrew Store > Multimedia Items > Download links --> 
 
-	<View id="item_RELOADXM1_110_main"> 
+	<View id="item_RELOADXM1_111_main"> 
 		<Attributes> 
-			<Table key="item_RELOADXM1_110_link"> 
+			<Table key="item_RELOADXM1_111_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/e92omw90vyp6qz7/Advanced-Power-Options-v1.10-HEN.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/e92omw90vyp6qz7/Advanced-Power-Options-v1.10-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/4lwip3jls62dlgo/Advanced-Power-Options-v1.11-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/4lwip3jls62dlgo/Advanced-Power-Options-v1.11-HEN.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>CUSTOM-RELOADXM1_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/RELOADXM1.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_RELOADXM1_110_link" attr="item_RELOADXM1_110_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_RELOADXM1_111_link" attr="item_RELOADXM1_111_link"/> 
 		</Items> 
 	</View> 
 
@@ -106,6 +139,22 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_HENTOOLBX_100_link" attr="item_HENTOOLBX_100_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_HTSS00003_50602_main"> 
+		<Attributes> 
+			<Table key="item_HTSS00003_50602_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/wqhjroiv7pp4j4z/Movian-v5.0.602-deank-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/wqhjroiv7pp4j4z/Movian-v5.0.602-deank-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0001-HTSS00003_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_HTSS00003_50602_link" attr="item_HTSS00003_50602_link"/> 
 		</Items> 
 	</View> 
 
@@ -141,35 +190,67 @@
 		</Items> 
 	</View> 
 
-	<View id="item_HTSS00003_50602_main"> 
+	<View id="item_PS3HENPRO_41_main"> 
 		<Attributes> 
-			<Table key="item_HTSS00003_50602_link"> 
+			<Table key="item_PS3HENPRO_41_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/wqhjroiv7pp4j4z/Movian-v5.0.602-deank-HEN.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/wqhjroiv7pp4j4z/Movian-v5.0.602-deank-HEN.pkg?dl=1</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0001-HTSS00003_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/HTSS00003.PNG</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_HTSS00003_50602_link" attr="item_HTSS00003_50602_link"/> 
-		</Items> 
-	</View> 
-
-	<View id="item_PS3HENPRO_341_main"> 
-		<Attributes> 
-			<Table key="item_PS3HENPRO_341_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/8268m2dduvwumbi/PS3-4K-Pro-v3.4.1-HEN.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/8268m2dduvwumbi/PS3-4K-Pro-v3.4.1-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/m6igciadvz20d80/PS3-4K-Pro-v4.1-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/m6igciadvz20d80/PS3-4K-Pro-v4.1-HEN.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>CFWPS3-PS3HENPRO_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PS3HENPRO.PNG</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_PS3HENPRO_341_link" attr="item_PS3HENPRO_341_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PS3HENPRO_41_link" attr="item_PS3HENPRO_41_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_PODCAST00_100_main"> 
+		<Attributes> 
+			<Table key="item_PODCAST00_100_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/z7qhox032r3dm0j/PS3-Podcast-Player-Enabler-v1.00-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/z7qhox032r3dm0j/PS3-Podcast-Player-Enabler-v1.00-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PODCAST00.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PODCAST00_100_link" attr="item_PODCAST00_100_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_PODCAST01_050_main"> 
+		<Attributes> 
+			<Table key="item_PODCAST01_050_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://xmbmods.com/audio/podcasts/blindboy/The_Blindboy_Podcast_v0.50.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://xmbmods.com/audio/podcasts/blindboy/The_Blindboy_Podcast_v0.50.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-PODCAST01_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PODCAST02.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PODCAST01_050_link" attr="item_PODCAST01_050_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_PODCAST02_main"> 
+		<Attributes> 
+			<Table key="item_PODCAST02_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/3r73xj4t6w597g7/The-Official-Playstation-Blogcast-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/3r73xj4t6w597g7/The-Official-Playstation-Blogcast-HEN.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0001-PODCAST02_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/PODCAST02.PNG</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_PODCAST02_link" attr="item_PODCAST02_link"/> 
 		</Items> 
 	</View> 
 
